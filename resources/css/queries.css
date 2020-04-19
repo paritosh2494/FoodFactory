@@ -22,15 +22,17 @@
     .main-nav { display: none;}
     .sticky .main-nav{display: block;}
     .main-nav li{
-        margin-left: 20px;
+        margin-left: 10px;
     }
     .sticky .main-nav li a:link,
     .sticky .main-nav li a:visited{
-        font-size: 50%;
+        font-size: 40%;
     }
     .logo-black {
         height: 50px;
         width: auto;
+        margin-top: 3px;
+        margin-bottom: 3px;
     }
     .long-copy{
         width: 100%;
